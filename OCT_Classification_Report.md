@@ -338,8 +338,9 @@ This study demonstrates the potential of deep learning for automated OCT image c
 
 ---
 
-**Authors**: [Student Name]  
+**Authors**: [Girish Hiremath]  
 **Institution**: IIIT Dharwad  
 **Course**: AI in Healthcare  
-**Date**: [Current Date]  
+**Date**: [26/08/2025]  
 **Assignment**: Case Study 1 - OCT Image Classification
+**Collab Link**: https://colab.research.google.com/drive/121ourechsSSi_CuBQ6AJOmsyuGgqm4iw?usp=sharing
