@@ -38,7 +38,7 @@ AI-HealthCare/
 1. **Open the Colab Notebook**:
 
    - Upload `OCT_Classification_Complete.ipynb` to Google Colab
-   - Or use this direct link: [Open in Colab](https://colab.research.google.com/github/your-repo/OCT_Classification_Complete.ipynb)
+   - Or use this direct link: [Open in Colab](https://colab.research.google.com/drive/121ourechsSSi_CuBQ6AJOmsyuGgqm4iw?usp=sharing)
 
 2. **Run All Cells**:
    - The notebook is self-contained and will install all dependencies
@@ -227,6 +227,11 @@ This project demonstrates:
 3. **Uncertainty Quantification**: Bayesian approaches for confidence estimation
 4. **Real-time Deployment**: Edge computing for point-of-care diagnosis
 5. **Larger Datasets**: Validation on diverse clinical populations
+
+## 🔗 Project Links
+
+- **GitHub Repository**: [https://github.com/gengirish/ai-healthcare-assign-01](https://github.com/gengirish/ai-healthcare-assign-01)
+- **Google Colab Notebook**: [https://colab.research.google.com/drive/121ourechsSSi_CuBQ6AJOmsyuGgqm4iw?usp=sharing](https://colab.research.google.com/drive/121ourechsSSi_CuBQ6AJOmsyuGgqm4iw?usp=sharing)
 
 ## 📚 References
 
