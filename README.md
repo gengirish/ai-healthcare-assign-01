@@ -241,7 +241,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Student Name**: [Your Name]  
+**Student Name**: Girish Hiremath  
 **Institution**: IIIT Dharwad  
 **Course**: AI in Healthcare  
 **Assignment**: Case Study 1 - OCT Image Classification
